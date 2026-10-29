@@ -8,3 +8,96 @@
 .navbar-toggler-icon {
   filter: invert(1) grayscale(100%) brightness(200%);
 }
+
+.min-vh-75 {
+  min-height: 75vh;
+}
+
+.hero-title {
+  max-width: 620px;
+  font-size: clamp(2.25rem, 5vw, 4rem);
+  line-height: 1.05;
+  font-weight: 700;
+}
+
+.hero-subtitle {
+  max-width: 580px;
+  font-size: 1.125rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.hero-form {
+  max-width: 580px;
+}
+
+.platform-icon {
+  font-size: 2rem;
+}
+
+ .hero-image {
+  max-height: 620px;
+}
+
+.content-section {
+  background-color: #fff;
+}
+
+.content-title {
+  max-width: 520px;
+  color: #212529;
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+.content-text {
+  max-width: 560px;
+  margin: 1.25rem 0 1.75rem;
+  color: #495057;
+  font-size: 1.125rem;
+}
+
+.content-image {
+  max-height: 520px;
+}
+
+.features-section {
+  background-color: #f8f9fa;
+}
+
+.feature-image {
+  width: 140px;
+  height: 140px;
+  object-fit: contain;
+}
+
+.feature-title {
+  color: #212529;
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+
+.feature-text {
+  max-width: 350px;
+  margin: 1rem auto 0;
+  color: #495057;
+}
+
+.footer-menu .nav-link {
+  font-weight: 500;
+}
+
+.social-links a {
+  font-size: 1.25rem;
+  text-decoration: none;
+}
+
+@media (max-width: 991.98px) {
+  .min-vh-75 {
+    min-height: auto;
+  }
+
+  .hero-title {
+    font-size: 2.5rem;
+  }
+}

@@ -1,0 +1,26 @@
+[PROMPT criação de conteúdos]
+Crie uma seção de conteúdos com textos à esquerda e imagem png à direita (irei adicionar depois)
+
+Para os textos teremos o título: "Saiba para onde vai o seu dinheiro" e texto "Com o Finans, você categoriza todos os seus lançamentos. Com gráficos simples, você sabe de onde vem e para onde vai o seu dinheiro.", botão na cor azul com texto "veja mais"
+
++++++++
+
+[PROMPT criação de 3 colunas de conteúdos]
+Crie uma seção com 3 colunas de conteúdos, contendo imagem png (que irei configurar depois), título e texto
+
+Coluna 1:
+título: Fácil de usar
+texto: O finans vai além do básico e permite que você faça controles incríveis, essenciais para suas finanças, Simples como tem que ser.
+
+Coluna 2:
+Título: Economize tempo
+texto: Tempo é dinheior! Em segundo, você tem tudo sob contro e aproveite o seu temo com o que realmente importa para você!
+
+Coluna 3: 
+título: suporte amigo
+texto: Dúvidas? Perguntas? Nosso suporte super legal ajuda você! Estamos aqui para resolver seus problemas e deixar sua vida bem mais fácil.
+
+++++++++
+
+[PROMPT criação do rodapé]
+Crie um rodapé com os menus: Home, Recursos, Benefícios, Preços, colocados ao lado esquerdo, ao lado direito coloque ícones de redes sociais Instagram, Youtube e Facebook, utilize ícones do Bootstrap Icons.
