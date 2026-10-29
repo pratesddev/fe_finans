@@ -1,0 +1,5 @@
+[PROMPT Criação de navegação]
+Com o Boostrap 5 crie uma barra de navegação horizontal com logo (utilize uma imagem png), e com os menus: Home, Recursos, Benefícios, Preços e Entrar, o entrar deve ser no formato botão na cor branca, o fundo pode utilizar o bg-warning, deixe a navegação responsiva com menu Hamburguer na cor branca
+
+[PROMPT Ajuste menu hamburguer]
+Altere a cor do ícone "navbar-toggler-icon" para a cor branca
